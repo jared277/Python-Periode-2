@@ -69,8 +69,6 @@ while in_store:
     elif antwoord == "view inventory":
          print(f"{inventory}")   
          time.sleep(2)  
-    elif antwoord == "sell item":
-          
 
     elif antwoord == "exit shop":
         in_store = False
